@@ -1,2 +1,2 @@
 # google-spreadsheets-whatif
-Script to emulate the What-Ff feature of Microsoft Excel
+Script to emulate the What-If feature of Microsoft Excel
